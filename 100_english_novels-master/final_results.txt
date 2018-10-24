@@ -1,0 +1,26 @@
+
+
+
+Galsworthy_Saints_1919_2 	-->	 Gissing
+Galsworthy_Saints_1919_4 	-->	 Ward
+Galsworthy_Saints_1919_5 	-->	 Gissing
+Galsworthy_Saints_1919_6 	-->	 Ward
+Galsworthy_Saints_1919_7 	-->	 Ward
+Galsworthy_Saints_1919_8 	-->	 Ward
+Galsworthy_Saints_1919_9 	-->	 Hardy
+Galsworthy_Saints_1919_2_2 	-->	 Gissing
+Galsworthy_Saints_1919_2_4 	-->	 Ward
+Galsworthy_Saints_1919_2_5 	-->	 Gissing
+Galsworthy_Saints_1919_2_6 	-->	 Ward
+Galsworthy_Saints_1919_2_7 	-->	 Ward
+Galsworthy_Saints_1919_2_8 	-->	 Ward
+Galsworthy_Saints_1919_2_9 	-->	 Hardy
+
+97 MFW , culled @ 99%,  4 of 18	(22.2%)
+
+General attributive success:  4 of 18 (22.2%)
+
+MFWs from 97 to 97 @ increment 100
+Culling from 99 to 99 @ increment 20
+Pronouns deleted: FALSE
+

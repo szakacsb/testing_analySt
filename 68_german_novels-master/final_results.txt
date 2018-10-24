@@ -1,0 +1,39 @@
+
+
+
+freytag_ahnen_2 	-->	 hoffmann
+freytag_ahnen_5 	-->	 may
+freytag_ahnen_8 	-->	 may
+freytag_ahnen_9 	-->	 may
+freytag_ahnen_11 	-->	 may
+freytag_ahnen_12 	-->	 may
+freytag_ahnen_14 	-->	 may
+freytag_ahnen_16 	-->	 may
+freytag_ahnen_18 	-->	 may
+freytag_ahnen_19 	-->	 arnim
+freytag_ahnen_20 	-->	 meyer
+freytag_ahnen_23 	-->	 may
+freytag_ahnen_24 	-->	 may
+freytag_ahnen_29 	-->	 achleitner
+freytag_ahnen_30 	-->	 meyer
+freytag_ahnen_31 	-->	 achleitner
+freytag_ahnen_32 	-->	 may
+freytag_ahnen_36 	-->	 arnim
+freytag_ahnen_47 	-->	 hoffmann
+freytag_ahnen_50 	-->	 arnim
+freytag_ahnen_60 	-->	 arnim
+freytag_ahnen_61 	-->	 arnim
+hesse_knulp_1 	-->	 mann
+hesse_knulp_2 	-->	 fontane
+schnitzler_casanova_1 	-->	 freytag
+schnitzler_casanova_2 	-->	 heiberg
+schnitzler_casanova_3 	-->	 heiberg
+
+84 MFW , culled @ 97%,  48 of 75	(64%)
+
+General attributive success:  48 of 75 (64%)
+
+MFWs from 84 to 84 @ increment 100
+Culling from 97 to 97 @ increment 20
+Pronouns deleted: FALSE
+

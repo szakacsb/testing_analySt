@@ -1,0 +1,85 @@
+0, 3, 90, 20, 4, 1e+05
+0, 3, 35, 10, 7, -37
+1, 2, 95, 90, 4, -51
+0, 2, 55, 85, 2, 1e+05
+1, 4, 65, 25, 6, -9
+0, 3, 55, 15, 2, -39
+1, 3, 80, 0, 3, -47
+0, 3, 90, 15, 5, -25
+0, 3, 20, 20, 2, -39
+0, 5, 75, 10, 5, -17
+0, 2, 80, 30, 2, -51
+1, 6, 75, 0, 5, -51
+1, 3, 90, 15, 5, -13
+1, 3, 70, 30, 6, -11
+0, 4, 75, 5, 2, -21
+0, 2, 50, 40, 4, 1e+05
+1, 2, 30, 5, 1, -51
+0, 4, 75, 0, 4, 1e+05
+0, 4, 75, 20, 7, -33
+0, 3, 40, 5, 2, -43
+1, 2, 90, 90, 4, 1e+05
+1, 2, 95, 90, 3, 1e+05
+1, 2, 100, 90, 4, 1e+05
+1, 2, 95, 85, 4, 1e+05
+0, 2, 95, 90, 4, 1e+05
+1, 2, 95, 90, 5, 1e+05
+ 
+1, 2, 95, 90, 4, -51
+
+letters 10:200
+1, 5, 50, 5, 8, -177
+letters 50:100
+1, 4, 100, 0, 5, -177
+
+JEgyzetek:
+
+absztrakt az elejére
+
+Nem ki a szöveg írója
+hanem az egyik kulcsterület / a módszerek egyik osztálya, amivel részletesen foglalkozom
+mire használják nem annyira lényeges
+bevezetés konkrétabb legyen
+
+kézzel írott kimegy a divatból, chatszoba nem érdekes
+
+kihagyni a ki a szerzõ részt
+helyette sok a paraméter, statisztikai alapú módszerek hatékonyságának és alkalmazhatóságának javítása a fókusz
+
+Szövegelemzési módszerek:
+a természetes nyelvû szövegek feldolgozásának fõ ága a ...
+
+hivatkozások mindenhova!
+
+képek alá hogy mi van rajtuk
+
+Stylo:
+ilyen statisztikai módszerek széleskörben használt csomagja a stylo, én is ezt választottam
+ezen keresztül javítom a használhatóságot, kell egy rész, ami kihangsúlyozza a problémát, elõbb, a módszerek végén egy fejezet
+Összefoglaló értékelés
+
+Shtylo fejezet -> webes felület, a stylo-hoz készült egy webes felület, ami megold pár dolgot, de...
+bemutatni az shtylo-t
+
+saját munka elé egy fõfejezet: a prpblémafelvetést és a megoldás alapjait tartalmazza
+milyen problémák vannak, értékelni a stylo, shtylo-t, utána varázsló és súgó
+stylo a szövegelemzési módszerek alá, ez a fejezet is oda (stylo és módszerek...kritikai elemzések)
+
+Saját munka fõfejezet:
+Célkitûzések: javítani a hatékonyságot, segíteni a felhasználónak,
+hogyan: súgó (ennél jobb kell), paraméterek kiválasztása, automatikus elemzõk (rövid, célként):4.1
+4.2 elõször az elmélet:
+varázsló -> módszerválasztó varázsló, paraméter-választó
+ide kell a heurisztikus módszer, elméleti részletek
+4.3 paraméter-optmializáló -> módszer része, implementáció nem kell
+5. implementáció: képernyõképek, felépítés, stb..
+6. kísérletek: az általam elkészített dolgok tesztelésére ezeket a kísérleteket állítottam össze, táblázatok számozása
+
+A cél az, hogy segítséget adjon, és nem veri meg az emberi szakértõket -> A CÉLKITÛZÉST ELÉRTÜK, meg tudtuk közelíteni
+korlátosak a kapacitások, a tesztelésre, 
+
+akármilyen korpuszra nem megy: kis korpusz, kevés szöveg, sok szerzõ: pontosan megfogalmazni, milyen feltételek kellenek
+
+baseline okán kezdõ felhasználóval
+
+péntekre készüljön el, beadás, max. javított hétfõn
