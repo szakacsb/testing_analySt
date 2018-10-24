@@ -418,5 +418,5 @@ analyzer <- function(language, precycles, cycles){
 result <- preanalyzer('German')
 print(result)
 
-result <- analyzer("Hungarian", 50, 100)
+result <- analyzer("Hungarian", 1, 10)
 print(result)
